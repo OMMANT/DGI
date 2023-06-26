@@ -1,0 +1,2 @@
+# DGI
+Determine generated image
